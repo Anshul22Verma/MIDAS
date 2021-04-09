@@ -1,8 +1,10 @@
 # MIDAS - coding problem
+ 
+## TASK 2
 
 The repository is an attempt to solve the challenge given by MIDAS for their internship program.
 
-## Pre-requisits
+### Pre-requisits
 
 1. Modules needed to run the notebook are all mentioned in `env.yml` file. I use Anaconda and you can create the environment I used for this project using 
     ```batch
@@ -13,7 +15,7 @@ The repository is an attempt to solve the challenge given by MIDAS for their int
     ![alt text](./static/data.png)
 3. The network and models are fairly small and thus have been pushed to the repository.
 
-## Additional Info
+### Additional Info
  
  - The static folder contains images which are used in the notebook.
 
