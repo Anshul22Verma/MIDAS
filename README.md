@@ -23,3 +23,4 @@ All the code is in `character_classification.ipynb` and some of the other items 
 
  - predict for class MIDAS-CNN is not written atm because it was not need but it will be useful for prediction and should be straight forward to write.
   
+  - Data for [subtask-1](https://www.dropbox.com/s/pan6mutc5xj5kj0/trainPart1.zip) and for [subtask-3](https://www.dropbox.com/s/otc12z2w7f7xm8z/mnistTask3.zip?dl=0) are linked.
