@@ -4,6 +4,8 @@
 
 The repository is an attempt to solve the challenge given by MIDAS for their internship program.
 
+All the code is in `character_classification.ipynb` and some of the other items which were attempted is mentioned in `experiment_log.ipynb`
+
 ### Pre-requisits
 
 1. Modules needed to run the notebook are all mentioned in `env.yml` file. I use Anaconda and you can create the environment I used for this project using 
