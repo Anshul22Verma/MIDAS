@@ -10,7 +10,7 @@ All the code is in `character_classification.ipynb` and some of the other items 
 
 1. Modules needed to run the notebook are all mentioned in `env.yml` file. I use Anaconda and you can create the environment I used for this project using 
     ```batch
-        conda env create -f env.yml
+    conda env create -f env.yml
     ```
 
 2. The notebook assumes that the data-folders for the task-2, subtask-1 and 3 are present in the location
