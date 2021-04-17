@@ -15,7 +15,7 @@ All the code is in `character_classification.ipynb` and some of the other items 
 
 2. The notebook assumes that the data-folders for the task-2, subtask-1 and 3 are present in the location
     ![alt text](./static/data.png)
-3. The network and models are fairly small and thus have been pushed to the repository.
+3. The network and models are fairly small and thus have been pushed to the repository. Model checkpoints are all present in directory **/models**
 
 ### Additional Info
  
