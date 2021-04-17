@@ -10,12 +10,12 @@ All the code is in `character_classification.ipynb` and some of the other items 
 
 1. Modules needed to run the notebook are all mentioned in `env.yml` file. I use Anaconda and you can create the environment I used for this project using 
     ```batch
-        conda env create -f environment.yml
+        conda env create -f env.yml
     ```
 
-2. The notebook assumes that the data-folders for the task-2, subtask-1 and 2 are present in the location
+2. The notebook assumes that the data-folders for the task-2, subtask-1 and 3 are present in the location
     ![alt text](./static/data.png)
-3. The network and models are fairly small and thus have been pushed to the repository.
+3. The network and models are fairly small and thus have been pushed to the repository. Model checkpoints are all present in directory **/models**
 
 ### Additional Info
  
