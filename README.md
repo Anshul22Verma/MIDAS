@@ -12,10 +12,12 @@ All the code is in `character_classification.ipynb` and some of the other items 
     ```batch
     conda env create -f env.yml
     ```
-
 2. The notebook assumes that the data-folders for the task-2, subtask-1 and 3 are present in the location
-    ![alt text](./static/data.png)
+    ![alt text](./static/data.png).
+    
 3. The network and models are fairly small and thus have been pushed to the repository. Model checkpoints are all present in directory **/models**
+
+4. The test data for **subtask-1** should also be present in the location where the notebook is.
 
 ### Additional Info
  
@@ -23,4 +25,12 @@ All the code is in `character_classification.ipynb` and some of the other items 
 
  - predict for class MIDAS-CNN is not written atm because it was not need but it will be useful for prediction and should be straight forward to write.
   
-  - Data for [subtask-1](https://www.dropbox.com/s/pan6mutc5xj5kj0/trainPart1.zip) and for [subtask-3](https://www.dropbox.com/s/otc12z2w7f7xm8z/mnistTask3.zip?dl=0) are linked.
+ - Data for [subtask-1](https://www.dropbox.com/s/pan6mutc5xj5kj0/trainPart1.zip) and for [subtask-3](https://www.dropbox.com/s/otc12z2w7f7xm8z/mnistTask3.zip?dl=0) are linked.
+
+ - Data for [testing subtask-1](https://www.dropbox.com/s/qg95ta6dm3f1mek/testPart1.zip?dl=0&file_subpath=%2Ftest%2FSample053)  
+
+### SUBTASK-1: Test evaluation 
+
+The test accuracy for sub-task 1 for my network is **63.44%**
+
+![alt text](./static/final_CM.png)
