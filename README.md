@@ -35,8 +35,8 @@ The test accuracy for sub-task 1 for my network is **63.44%**
 
 ![alt text](./static/final_CM.png)
 
-Where the model lacked, involved a lot of possible confusions to naked-eye is well like capital and small alphabets,
-other confusions include confusion between o, 0, O, Q; confusion between B, 8.
+Where the model lacked, involved a lot of possible confusions to naked-eye is well like `capital and small alphabets`,
+other confusions include confusion between `o, 0, O, Q`; confusion between `B, 8` etc.
 
 Atleast for small and capital context will come in extremly handy therefore predicting the character knowing a sequence 
 will be something that will help the model in detecting hand-written characters. 
